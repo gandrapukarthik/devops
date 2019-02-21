@@ -20,9 +20,9 @@ if($_SERVER['REQUEST_METHOD'] == "POST")
 $name = $_POST['login'];
 $pass = $_POST['password'];
 
-$hostname='edureka.cx9qgfyl1dhy.us-west-2.rds.amazonaws.com';
-$username='edureka';
-$password='edureka123';
+$hostname='3.87.43.112';
+$username='root';
+$password='root';
 $dbname='edureka';
 $usertable='login';
 
